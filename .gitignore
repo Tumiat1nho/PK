@@ -1,0 +1,18 @@
+# Password files should never be committed
+passwords.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
